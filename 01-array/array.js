@@ -1,4 +1,6 @@
 // define an array with 5 elements
-const array = [];
+const fruits = ['banana', 'orange', 'apple', 'strewbarry', 'wine'];
 // console.log() the 3rd element
-console.log();
+
+console.log(fruits.length);
+console.log((fruits)[2]);
